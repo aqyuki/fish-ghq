@@ -1,6 +1,8 @@
 # fish-ghq
 
-completions and keybinding for [ghq]
+completions and keybinding for [ghq].
+
+ This project was forked by [decors/fish-ghq](https://github.com/decors/fish-ghq).
 
 ## Todo
 
